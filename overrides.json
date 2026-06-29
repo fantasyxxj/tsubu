@@ -2,5 +2,6 @@
   "version": 1,
   "comment": "Tsubu OTA content overrides. App fetches this on launch; unreachable/offline -> falls back to bundled data, no impact. Add bad question ids/patterns here to hide them without an app-store update.",
   "disabledQbankIds": [],
-  "disabledGrammarPatterns": []
+  "disabledGrammarPatterns": [],
+  "disabledWordIds": []
 }
